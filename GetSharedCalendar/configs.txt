@@ -1,0 +1,5 @@
+﻿https://mail.geoffrey1.msftonlinelab.com/EWS/Exchange.asmx
+Admin001@geoffrey1.msftonlinelab.com
+Password1!
+Admin001@geoffrey1.msftonlinelab.com
+Other Calendars
